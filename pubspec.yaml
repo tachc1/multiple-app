@@ -1,0 +1,26 @@
+name: cell_calendar
+description: Modern calendar widget with useful features. Enables to develop well designed calendar in a moment. Inspired by the UI of Google calendar.
+version: 0.8.0
+homepage: https://github.com/santa112358/cell_calendar
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.10.3"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^15.1.0+1
+  flutter_reorderable_list: ^1.3.1
+  hooks_riverpod: ^2.3.6
+  image_picker: ^1.0.1
+  math_expressions: ^2.4.0
+  path: ^1.8.3
+  share: ^2.0.4
+  babylonjs_viewer: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
