@@ -1,4 +1,4 @@
-# cell_calendar
+# multiple-app
 
 [![pub package](https://img.shields.io/pub/v/cell_calendar.svg)](https://pub.dev/packages/cell_calendar)
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="License: MIT"></a>
