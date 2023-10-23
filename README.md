@@ -13,7 +13,7 @@
     ・複数アプリをサイドバーで+を押すと機能追加、-を押すと機能削除を実装
     ・メモ機能実装**
 
-![cell_calendar](https://user-images.githubusercontent.com/43510799/92649244-ae30e180-f325-11ea-92a8-3e21d76aacd8.gif)
+![cell_calendar]([(https://github.com/tachc1/multiple-app/assets/118403931/f27df816-fe88-4551-9b9b-0efdbaba8300))]
 
 ## Usage
 
