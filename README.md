@@ -12,8 +12,7 @@
 </ul>
 
 <h2>イメージ画像</h2>
-<img src="https://imgur.com/9pqLwCU">
-
+<iframe src="https://giphy.com/embed/x4fVtupdbI6XFolJxA" width="245" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/x4fVtupdbI6XFolJxA">via GIPHY</a></p>
 
 
 <h2>実行するメインファイルの位置</h2>
