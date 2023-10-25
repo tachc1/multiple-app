@@ -9,9 +9,9 @@
 <h1>multiple-app</h1>
 <p>複数のアプリを扱うことができます。実装予定であり、カレンダー(ToDo)、アラーム、電卓、フォルダ管理、メモなどといった複数の機能が使えるようになります。</p>
 
-<h2>Table of Contents</h2>
+<h2>今後の課題</h2>
 <ul>
-  <li><a href="#install">Install</a></li>
+  <li>ToDoの内容を保持</li>
   <li><a href="#install-submodules">Install submodules</a></li>
   <li><a href="#demonstration">Demonstration</a></li>
   <li><a href="#api-copyright">API Copyright</a></li>
