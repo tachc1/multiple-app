@@ -12,7 +12,7 @@
 </ul>
 
 <h2>イメージ画像</h2>
-<img src="https://imgur.com/9pqLwCU"></img>
+<img src="https://imgur.com/9pqLwCU">
 
 
 
