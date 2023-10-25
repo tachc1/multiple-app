@@ -11,19 +11,9 @@
   <li>メモ機能実装</li>
 </ul>
 
-<h2 id="install">Install</h2>
-<p>To use Aria helper, make sure you have the following dependencies installed on your system:</p>
-<ol>
-  <li><a href="https://python.org">Python 3.x</a> - Ensure you have Python 3.x installed on your system.</li>
-  <li><a href="https://visualstudio.microsoft.com/downloads">VC++ build tools</a> 2015 or Latest Version (Windows only)
-    - Required for Windows users.</li>
-  <li><a href="https://rust-lang.org">Rust</a> - Ensure you have Rust installed on your system.</li>
-</ol>
-
-<h2 id="install-submodules">Install submodules</h2>
-<p>You can clone the repository along with its submodules using the following Git command:</p>
-<pre><code>git clone --recurse-submodules -j8 https://github.com/YiJhu/Aria_helper.git</code></pre>
-<p>Alternatively, you can install the required submodules using Python:</p>
+<h2>実行するメインファイルの位置</h2>
+<pre><code>multiple-app\example\lib</code></pre>
+<p>このlib内のmain.dartを実行してください</p>
 <pre><code>pip install -r requirements.txt</code></pre>
 
 <h2 id="demonstration">Demonstration</h2>
