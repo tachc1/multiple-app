@@ -11,6 +11,9 @@
   <li>メモ機能実装</li>
 </ul>
 
+<h2>イメージ画像</h2>
+https://github.com/tachc1/multiple-app/assets/118403931/f177662a-5093-475a-9b60-68007ce5387f
+
 <h2>実行するメインファイルの位置</h2>
 <pre><code>multiple-app\example\lib</code></pre>
 <p>このlib内のmain.dartを実行してください</p>
