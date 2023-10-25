@@ -12,7 +12,8 @@
 </ul>
 
 <h2>イメージ画像</h2>
-![XRecorder_Edited_23102023_120010_2](https://github.com/tachc1/multiple-app/assets/118403931/3ad486b4-0508-4325-83ac-4a9a502559d6)
+<img src="![XRecorder_Edited_23102023_120010_2](https://github.com/tachc1/multiple-app/assets/118403931/3ad486b4-0508-4325-83ac-4a9a502559d6)" alt="multiple-app">
+
 
 
 <h2>実行するメインファイルの位置</h2>
