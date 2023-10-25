@@ -12,7 +12,7 @@
 </ul>
 
 <h2>イメージ画像</h2>
-https://media.giphy.com/media/x4fVtupdbI6XFolJxA/giphy.gif
+<img src="https://media.giphy.com/media/x4fVtupdbI6XFolJxA/giphy.gif">
 
 
 <h2>実行するメインファイルの位置</h2>
